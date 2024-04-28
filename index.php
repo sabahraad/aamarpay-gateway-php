@@ -161,6 +161,7 @@ html, body {
                         <h3>See Sample Gateway</h3>
                         <p>Fill in the data below.</p>
                         <p>Fill in the data below.</p>
+                        <p>Fill in the data below.</p>
                         <form class="requires-validation" action="process.php" method="post">
                             <div class="col-md-12">
                             <input type="text" name="full_name" placeholder="Enter your full name">
