@@ -28,6 +28,6 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           command_timeout: 30m
           script: |
-            cd /usr/share/nginx/html/aamarpayPHP
+            cd /usr/share/nginx/html/aamarpay-gateway-php
             git stash
             git pull origin main
