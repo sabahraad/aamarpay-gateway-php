@@ -159,7 +159,6 @@ html, body {
                 <div class="form-content">
                     <div class="form-items">
                         <h3>See Sample Gateway</h3>
-                        <h3>See Sample Gateway</h3>
                         <p>Fill in the data below..</p>
                         <form class="requires-validation" action="process.php" method="post">
                             <div class="col-md-12">
